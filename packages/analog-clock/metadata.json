@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "shafsquare54@gmail.com",
+                "Name": "sha5"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "A classic analog clock face behind glass, with a dashed minute bezel and optional smooth-sweep second hand.",
+        "EnabledByDefault": true,
+        "Id": "com.sha5.widgets.analogclock",
+        "License": "GPL-3.0-or-later",
+        "Name": "Analog Clock",
+        "Version": "2.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

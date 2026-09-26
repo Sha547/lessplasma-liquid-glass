@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "shafsquare54@gmail.com",
+                "Name": "sha5"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "Days (then hours, then minutes) until a date you set, behind glass.",
+        "EnabledByDefault": true,
+        "Id": "com.sha5.widgets.countdown",
+        "License": "GPL-3.0-or-later",
+        "Name": "Countdown",
+        "Version": "2.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

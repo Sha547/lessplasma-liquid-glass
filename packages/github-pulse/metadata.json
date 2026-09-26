@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "shafsquare54@gmail.com",
+                "Name": "sha5"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Your open PR and assigned-issue counts from GitHub, via the gh CLI. Click to refresh.",
+        "EnabledByDefault": true,
+        "Id": "com.sha5.widgets.githubpulse",
+        "License": "GPL-3.0-or-later",
+        "Name": "GitHub Pulse",
+        "Version": "2.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

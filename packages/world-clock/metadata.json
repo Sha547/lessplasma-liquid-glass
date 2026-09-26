@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "shafsquare54@gmail.com",
+                "Name": "sha5"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "A second city's time behind a dashed glass bezel, with the offset from your own.",
+        "EnabledByDefault": true,
+        "Id": "com.sha5.widgets.worldclock",
+        "License": "GPL-3.0-or-later",
+        "Name": "World Clock",
+        "Version": "2.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+                          http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+    <kcfgfile name=""/>
+    <group name="General">
+        <entry name="workMinutes" type="Int">
+            <default>25</default>
+        </entry>
+        <entry name="breakMinutes" type="Int">
+            <default>5</default>
+        </entry>
+        <entry name="workColorHex" type="String">
+            <default>#FF3B30</default>
+        </entry>
+        <entry name="breakColorHex" type="String">
+            <default>#34C759</default>
+        </entry>
+        <entry name="timeFontSize" type="Int">
+            <default>28</default>
+        </entry>
+        <entry name="glassBlur" type="Double">
+            <default>1.0</default>
+        </entry>
+        <entry name="glassTintOpacity" type="Double">
+            <default>0.42</default>
+        </entry>
+        <entry name="cornerRadius" type="Int">
+            <default>28</default>
+        </entry>
+    </group>
+</kcfg>
