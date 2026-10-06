@@ -13,7 +13,7 @@
         "Id": "com.sha5.widgets.weatherstrip",
         "License": "GPL-3.0-or-later",
         "Name": "Weather Strip",
-        "Version": "2.0"
+        "Version": "3.0"
     },
     "X-Plasma-API-Minimum-Version": "6.0"
 }
